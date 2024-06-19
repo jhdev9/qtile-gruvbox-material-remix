@@ -1,0 +1,46 @@
+[env]
+  WINIT_X11_SCALE_FACTOR = "1"
+  WINIT_UNIX_BACKEND = "x11"
+  ALACRITTY_LOG_LEVEL = "trace"
+
+[window]
+  padding = { x = 4, y = 4 }
+  decorations = "None"
+  opacity = 0.9
+  blur = true
+  dynamic_title = true
+  decorations_theme_variant = "None"
+  resize_increments = true
+
+[font]
+  normal = { family = "MesloLGS Nerd Font", style = "Regular" }
+  size = 10.60
+  offset = { x = 0, y = 0 }
+  glyph_offset = { x = 0, y = 0 }
+  builtin_box_drawing = true
+
+
+[colors]
+  [colors.primary]
+    background = '0x282828'
+    foreground = '0xdfbf8e'
+
+  [colors.normal]
+    black =   '0x665c54'
+    red =     '0xea6962'
+    green =   '0xa9b665'
+    yellow =  '0xe78a4e'
+    blue =    '0x7daea3'
+    magenta = '0xd3869b'
+    cyan =    '0x89b482'
+    white =   '0xdfbf8e'
+
+  [colors.bright]
+    black =   '0x928374'
+    red =     '0xea6962'
+    green =   '0xa9b665'
+    yellow =  '0xe3a84e'
+    blue =    '0x7daea3'
+    magenta = '0xd3869b'
+    cyan =    '0x89b482'
+    white =   '0xdfbf8e'
