@@ -1,6 +1,6 @@
 # Qtile Gruvbox Material Remix Theme
 
-A customized Qtile theme based on the popular Gruvbox Material color scheme.
+A customized Qtile theme based on the popular Gruvbox Material color scheme https://github.com/hiimsergey/qtile-gruvbox-material.
 
 ## Install and Use
 
